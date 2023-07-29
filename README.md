@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [My Solution]()
-- [Live Site URL]()
+- [Live Site URL](https://eloquent-beijinho-52a8b1.netlify.app/)
 
 ## My process
 
@@ -63,4 +63,4 @@ This project provided an excellent opportunity to enhance my React.js skills. Du
 
 #### - [React js](https://react.dev/) - The official documentation for React.js, a comprehensive and up-to-date resource for mastering React.
 
-#### -[The Ultimate React Course 2023 by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/) - A top-notch course offering an excellent opportunity to master React.js and build dynamic web applications.
+#### - [The Ultimate React Course 2023 by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/) - A top-notch course offering an excellent opportunity to master React.js and build dynamic web applications.

@@ -32,7 +32,7 @@ export default function Nav() {
     setShowMenu((menu) => !menu);
   }
   return (
-    <nav className="flex justify-between pb-3 col-[1_/_4] row-[1_/_2]">
+    <nav className="flex justify-between pb-3 col-[1_/_4] row-[1_/_2] pt-3">
       <img src={logo} alt={"companies logo"} />
       <img
         className="md:hidden w-[3.75rem] h-[1.875rem]"
